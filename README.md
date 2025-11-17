@@ -50,7 +50,7 @@ The analysis in `notebook.ipynb` follows these key steps:
 
 ### Option 1: Direct Colab Link (Simplest)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahmed-M0rsy/analyzing_crime_in_los_angeles/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahmed-M0rsy/Analyzing-crime-in-Los-Angeles/blob/main/notebook.ipynb)
 
 ### Option 2: Get a local copy up and running, follow these simple steps
 
